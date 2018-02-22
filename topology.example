@@ -1,0 +1,5 @@
+# set up topology configuration at ~/.litmus/topology
+
+[TM1_001]
+dev_type = standalone_tm1
+serialno = 0000d85700006200

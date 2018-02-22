@@ -6,5 +6,5 @@ plugin_info:
   commitid: 7df27
   script: tm1-plugin/install.sh
   branch: tizen_4.0_tm1
-flashing: False
+flashing_binary: False
 installing_plugin: False
