@@ -1,0 +1,10 @@
+binary_urls:
+  - http://download.tizen.org/releases/milestone/tizen/4.0-unified/latest/images/standard/mobile-boot-armv7l-tm1/ 
+  - http://download.tizen.org/releases/milestone/tizen/4.0-unified/latest/images/standard/mobile-wayland-armv7l-tm1/
+plugin_info:
+  url: ssh://165.213.149.170:29418/tools/plugin-prebuilt
+  commitid: 7df27
+  script: tm1-plugin/install.sh
+  branch: tizen_4.0_tm1
+flashing: False
+installing_plugin: False
